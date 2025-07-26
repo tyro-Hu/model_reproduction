@@ -8,4 +8,4 @@
 
 
 ## 多模态
-CLIP:https://github.com/tyro-Hu/model_reproduction/tree/main/clip_reproduction
+CLIP : https://github.com/tyro-Hu/model_reproduction/tree/main/clip_reproduction
