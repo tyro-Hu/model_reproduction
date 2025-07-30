@@ -7,6 +7,8 @@
 ## CV
 CNN : https://github.com/tyro-Hu/model_reproduction/tree/main/CNN_reproduction
 
+Resnet : https://github.com/tyro-Hu/model_reproduction/tree/main/Resnet_reproduction
+
 
 ## 多模态
 CLIP : https://github.com/tyro-Hu/model_reproduction/tree/main/clip_reproduction
