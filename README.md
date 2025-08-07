@@ -8,6 +8,9 @@ RNN : https://github.com/tyro-Hu/model_reproduction/tree/main/RNN_reproduction
 
 深度RNN_并行计算 : https://github.com/tyro-Hu/model_reproduction/tree/main/%E6%B7%B1%E5%BA%A6RNN_%E5%B9%B6%E8%A1%8C%E8%BF%90%E7%AE%97
 
+LSTM : https://github.com/tyro-Hu/model_reproduction/tree/main/LSTM_reproduction
+
+
 
 ## CV
 CNN : https://github.com/tyro-Hu/model_reproduction/tree/main/CNN_reproduction
