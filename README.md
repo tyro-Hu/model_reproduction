@@ -10,6 +10,8 @@ RNN : https://github.com/tyro-Hu/model_reproduction/tree/main/RNN_reproduction
 
 LSTM : https://github.com/tyro-Hu/model_reproduction/tree/main/LSTM_reproduction
 
+gpt-2 : https://github.com/tyro-Hu/model_reproduction/tree/main/GPT-2_reproduction
+
 
 
 ## CV
